@@ -1,7 +1,3 @@
 selenium
 beautifulsoup4
 webdriver_manager
-
-git remote add origin https://github.com/20UNIVA/selenium_tutorial.git
-git branch -M main
-git push -u origin main
